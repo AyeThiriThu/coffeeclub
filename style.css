@@ -1,0 +1,197 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+div#header{
+	margin: 0 500px;
+}
+div#header h1{
+	font-family: "coffee2";
+	font-size: 40px;
+	padding-top: 25px;
+	color: #4E342E;
+}
+div#header img{
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+.clear{
+	clear: both;
+}
+#navbar{
+	margin-top:20px;
+	width: 100%;
+	background-color: #4E342E;
+}
+.nav_ul{
+	padding-left: 50px;
+}
+#navbar .nav_ul li{
+	list-style: none;
+	float: left;
+}
+#navbar .nav_ul li a{
+	color:#FFF;
+	text-decoration: none;
+	padding: 20px 50px;
+	display: block;
+	text-transform: uppercase;
+	font-family: "coffee1";
+}
+#navbar .nav_ul li a:hover, .active{
+	background-color: #5D4037;
+}
+div#slider img{
+	width: 100%;
+	height: 400px;
+	object-fit: cover;
+}
+div.quote{
+	position: absolute;
+	background-color: rgba(255,255,255,0.5);
+	top: 70%;
+	left: 50%;
+	padding:30px;
+	font-variant: small-caps;
+	font-family:coffee1;
+	font-size: 25px;
+}
+.bquote{
+	font-family: coffee2;
+	margin-top: 70px;
+	margin-bottom: 30px;
+	padding-left: 550px;
+	color: #5D4037;
+}
+#inlinequote{
+	margin-top: 50px;
+	margin-right: 400px;
+	margin-left: 400px;
+	font-family: coffee1;
+}
+.hrtag{
+	margin-right: 400px;
+	margin-left: 400px;
+}
+#image1{
+	width: 70px;
+	height: 70px;
+	margin-left: 100px;
+}
+#image2{
+	width: 100px;
+	height: 80px;
+	margin-left: 160px;
+}
+#image3{
+	width: 70px;
+	height: 70px;
+	margin-left: 160px;
+}
+#imgdiv{
+	margin-top: 50px;
+}
+#titlediv h3{
+	float:left;
+}
+.coffee{
+	width: 70px;
+	height: 70px;
+	margin-left: 400px;
+	font-family: coffee2;
+}
+.cake{
+	width: 70px;
+	height: 70px;
+	margin-left: 180px;
+	font-family: coffee2;
+}
+.bread{
+	width: 70px;
+	height: 70px;
+	margin-left: 180px;
+	font-family: coffee2;
+}
+#textdiv p{
+	float: left;
+	font-family: coffee1;
+	margin-bottom: 50px;
+}
+.porimg{
+	width: 100px;
+	height: 150px;
+}
+#three{
+	margin-left:300px; 
+}
+#choose div{
+	float:left;
+	font-family: coffee1;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#why{
+	margin-left: 20px;
+	margin-right: 180px;
+	width: 450px;
+	height: 70px;
+}
+#why h2{
+	font-family: coffee2;
+}
+#img1{
+	width:300px;
+	height: 305px;
+}
+#img2{
+	width:405px;
+	height: 150px;
+}
+.img3{
+	width: 200px;
+	height:150px;
+}
+#specialimg{
+	margin-left: 200px;
+	margin-top: 50px;
+}
+#specialimg div{
+	float: left;
+	margin-left:80px;
+}
+#last div{
+	float: left;
+}
+#imglast{
+	width: 250px;
+	height: 300px;
+}
+#imgdiv{
+	margin-left: 300px;
+}
+#listdiv{
+	margin-top: 100px;
+	margin-left: 80px;
+	width: 400px;
+	height: 300px;
+}
+#listdiv h2{
+	font-family: coffee2;
+	line-height: 50px;
+}
+#listdiv ol{
+	font-family: coffee1;
+}
+#ff{
+	margin-top: 50px;
+	color: white;
+	background-color: #4E342E;
+	padding: 20px 10px;
+}
+#ff h5{
+	float: left;
+}
+#right{
+	padding-left: 800px
+}
